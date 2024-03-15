@@ -49,7 +49,7 @@ function populateDictionary(tts) {
 	// ROUNDABOUTS
 	dictionary["prepare_roundabout"] = tts ? "Pripremi se za ulazak u kružni tok" : "prepare_roundabout.ogg";
 	dictionary["roundabout"] = tts ? "uđi u kružni tok" : "roundabout.ogg";
-	dictionary["then"] = tts ? "onda" : "then.ogg";
+	dictionary["then"] = tts ? "zatim" : "then.ogg";
 	dictionary["and"] = tts ? "i" : "and.ogg";
 	dictionary["and_alt"] = tts ? "pa" : "and.ogg";
 	dictionary["take"] = tts ? "izađi na" : "take.ogg";
